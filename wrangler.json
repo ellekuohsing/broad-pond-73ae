@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "broad-pond-73ae",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6211a271-cd40-4d45-b9f4-8397a6e07e41",
+      "database_name": "broad-pond-73ae-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
